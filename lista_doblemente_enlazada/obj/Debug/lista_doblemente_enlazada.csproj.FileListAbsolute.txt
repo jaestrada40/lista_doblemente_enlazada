@@ -1,0 +1,7 @@
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\bin\Debug\lista_doblemente_enlazada.exe.config
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\bin\Debug\lista_doblemente_enlazada.exe
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\bin\Debug\lista_doblemente_enlazada.pdb
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\obj\Debug\lista_doblemente_enlazada.csproj.AssemblyReference.cache
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\obj\Debug\lista_doblemente_enlazada.csproj.CoreCompileInputs.cache
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\obj\Debug\lista_doblemente_enlazada.exe
+C:\Users\jaestrada\source\repos\lista_doblemente_enlazada\lista_doblemente_enlazada\obj\Debug\lista_doblemente_enlazada.pdb
